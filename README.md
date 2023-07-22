@@ -1,4 +1,4 @@
 # KaggleX-BIPOC-Mentorship-Program
 This repository contains learning materials and resources used during the Mentorship program.
 
-As this folder might not contain all the resources used, I MUST say that the program was a life-changing experience for me, which I do NOT take for granted.
+As this folder might not contain all the resources used, I MUST say that the program was a life-changing experience for me, which I am very which I do NOT take for granted.
