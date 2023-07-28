@@ -1,5 +1,5 @@
 # Import matplotlib.pyplot with alias plt
-import matplotlib.pyplot as plttt
+import matplotlib.pyplot as pltttt
 
 # Look at the first few rows of data
 print(avocados.head())
