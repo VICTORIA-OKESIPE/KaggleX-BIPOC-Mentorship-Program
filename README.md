@@ -1,4 +1,4 @@
-hhhhhhhghh# KaggleX-BIPOC-Mentorship-Program
+ggggghhhhhhhghh# KaggleX-BIPOC-Mentorship-Program
 This repository contains learning materials and resources used during the Mentorship program.
 1.
 2.
